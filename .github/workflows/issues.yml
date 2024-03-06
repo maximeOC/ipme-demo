@@ -3,7 +3,7 @@ name: issues
 on:
   issues:
     types: [labeled]
-
+  
 permissions:
   issues: write
 
